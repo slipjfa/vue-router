@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 15000,
+    "year": 2015,
+    "contact": {
+      "dealer": "Laith",
+      "number": "111-111-111"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bentley",
+    "price": 215000,
+    "year": 2021,
+    "contact": {
+      "dealer": "Sam",
+      "number": "222-111-111"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "price": 5000,
+    "year": 2005,
+    "contact": {
+      "dealer": "Ed",
+      "number": ""
+    }
+  },
+  {
+    "id": 4,
+    "name": "Land Rover",
+    "price": 85000,
+    "year": 2019,
+    "contact": {
+      "dealer": "Eddie",
+      "number": "444-111-111"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nissan",
+    "price": 25000,
+    "year": 2019,
+    "contact": {
+      "dealer": "",
+      "number": "555-555-555"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kia",
+    "price": 55000,
+    "year": 2017,
+    "contact": {
+      "dealer": "",
+      "number": ""
+    }
+  }
+]
